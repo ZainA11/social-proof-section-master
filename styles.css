@@ -13,8 +13,23 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-
 main{
-	color: blue;
 	font-family: "League Spartan";	
+}
+h1{
+	text-align: center;
+	font-weight: 700;
+	color: var(--veryDarkMagenta);
+	font-size: 2.6rem;
+	line-height: 2rem;
+	padding: 1rem;
+}
+p{
+	text-align: center;
+	font-size: 1.3rem;
+	color:var(--darkGrayisMagenta);
+	font-weight: 500;
+}
+header{
+	padding: 3rem 1rem 2rem 1rem;
 }
